@@ -3,7 +3,7 @@
 - Sou estudante do [Alura](https://www.alura.com.br)
 - Uso a linguagem de JavaScript
 - Organizo meus projetos aqui
-- Gosto de programar no [P5.JS](https://p5js.org/)
+- Gosto de programar no [p5.js](https://p5js.org/)
 
 ### Entre em contato comigo 📫
 
